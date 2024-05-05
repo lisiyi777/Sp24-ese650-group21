@@ -1,0 +1,6 @@
+/home/sylv/TransUNet/dataset/build
+None
+4
+0.001
+20
+trans_build
